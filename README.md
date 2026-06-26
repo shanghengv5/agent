@@ -1,5 +1,5 @@
-# 使用
+# Usage
 
 ```
-ln -s {currentDir}/skills/* {target}/.claude
+ln -s {currentDir}/* {target}/.claude
 ```
