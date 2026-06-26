@@ -1,5 +1,5 @@
 # Usage
 
 ```
-ln -s {currentDir}/* {target}/.claude
+ln -s {currentDir}/* {target}/{your_agent}
 ```
